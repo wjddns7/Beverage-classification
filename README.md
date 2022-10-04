@@ -139,4 +139,8 @@ print(
 ```
 ![image](https://user-images.githubusercontent.com/108790183/191390250-1b6d633c-1829-4f9f-9407-5ad5b308dba3.png)
 ## 5. 어려웠던 점
-#### 음료 데이터셋을 찾기가 생각보다 힘들어서 Teachable Machine을 이용해서 직접 데이터셋을 만들었습니다.
+음료 데이터셋을 찾기가 생각보다 힘들어서 Teachable Machine을 이용해서 직접 데이터셋을 만들었습니다.
+
+## 6. 데이터 흐름도
+![image](https://user-images.githubusercontent.com/108790183/193726329-70b80f24-3b36-4532-8f1b-5b048a495bf6.png)
+
